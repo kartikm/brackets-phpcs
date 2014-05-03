@@ -1,0 +1,35 @@
+{
+    "name": "com.kartikm.brackets.phpcs",
+    "version": "0.0.1",
+    "description": "PHP Codesniffer extension for Brackets",
+    "title": "PHPCodesniffer for Brackets",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kartikm/brackets-phpcs.git"
+    },
+    "dependencies": {
+        "child_process": "*"
+    },
+    "keywords": [
+        "phpcs",
+        "brackets",
+        "php",
+        "linting",
+        "codequality",
+        "inspection"
+    ],
+    "engines": {
+        "brackets": ">=0.30.0"
+    },
+    "author": {
+        "name": "Kartik Mistry",
+        "email": "kartik.mistry@gmail.com",
+        "url": "https://github.com/kartikm"
+    },
+    "homepage": "https://github.com/kartikm/brackets-phpcs",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kartikm/brackets-phpcs/issues"
+    }
+}
